@@ -73,3 +73,9 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 
 ## Refer this doc for implement this demo
 https://www.itsolutionstuff.com/post/import-and-export-csv-file-in-laravel-58example.html
+
+## In Import
+If your imported file want to name,email and password fields then and all only then you have sucessfully imported this file data to your db
+
+## In Export
+All db records are exported in one csv file and that downloaded
